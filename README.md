@@ -1,3 +1,16 @@
+# Kert Tamm ReactJS Iseseisev Töö
+
+## Retseptide App
+
+**Projekt loodud kasutades npx create-react-app retsepti-app**
+
+**Projekt kasutab tasuta Recipe Search API versiooni lehelt https://www.edamam.com/**
+
+**Brauseris: http://localhost:3000/**
+
+
+**API GET käsu näite leiab siit https://developer.edamam.com/edamam-docs-recipe-api**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
