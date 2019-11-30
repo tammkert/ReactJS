@@ -11,6 +11,9 @@
 
 **API GET käsu näite leiab siit https://developer.edamam.com/edamam-docs-recipe-api**
 
+<img src="reactjspicture1.png" width="800" title="picture 1">
+<img src="reactjspicture2.png" width="800" title="picture 2">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
